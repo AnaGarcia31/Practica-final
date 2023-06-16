@@ -1,0 +1,17 @@
+body{
+	background-color:#2E3644;
+	
+}
+
+form {
+	border-color: #393E52;
+	border-width: small;
+	border-radius: 5px;
+	background-color: #AAB3CA;
+/*	height: 400px;*/
+	width: 250px;
+	justify-content: center;
+	align-items: right;
+	margin: auto;
+	color:black;
+}
